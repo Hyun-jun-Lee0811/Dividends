@@ -1,4 +1,4 @@
-# 프로젝트 개요
+# ![revenue_12155113](https://github.com/user-attachments/assets/1f82db3b-7cb5-467e-b23c-2a3cd8525fb1) 주식 배당금 프로젝트 개요
  미국 주식의 배당금 정보(Yahoo Finance)를 스크래핑하여 제공하는 API 서비스입니다.
 
  ## 각 API 명세서
